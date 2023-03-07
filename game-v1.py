@@ -29,9 +29,9 @@ def jogo():
                "mesa", "estojo", "tapete", "toalha", "chinelo", "sapato"] """
     
     # ou podemos abrir os arquivos que torna tudo mais interessante
-    paises = open("hangmanGame/paises.txt", "r").read().splitlines()
-    animais = open("hangmanGame/animais.txt", "r").read().splitlines()
-    objetos = open("hangmanGame/objetos.txt", "r").read().splitlines()
+    paises = open("paises.txt", "r").read().splitlines()
+    animais = open("animais.txt", "r").read().splitlines()
+    objetos = open("objetos.txt", "r").read().splitlines()
 
     
     tema = int(input("Escolha um tema\n 1 - paises\n 2 - animais\n 3 - objetos\nDigite um valor: "))
