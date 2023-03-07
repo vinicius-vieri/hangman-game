@@ -1,0 +1,14 @@
+canivete
+perfume
+notebook
+porta
+chaves
+cama
+ventilador
+cadeira
+mesa
+estojo
+tapete
+toalha
+chinelo
+sapato
